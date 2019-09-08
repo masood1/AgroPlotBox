@@ -1,0 +1,29 @@
+{
+  "name": "agroplotbox",
+  "version": "1.0.0",
+  "description": "agriculture plot box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node agroplotbox.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masood1/AgroPlotBox.git"
+  },
+  "keywords": [
+    "agriculre",
+    "karo",
+    "decentralised",
+    "wala"
+  ],
+  "author": "masood hussain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masood1/AgroPlotBox/issues"
+  },
+  "homepage": "https://github.com/masood1/AgroPlotBox#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
